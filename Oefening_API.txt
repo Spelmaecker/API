@@ -5,3 +5,28 @@ Willekeurige foto:
 
 5 willekeurige van Puggle
 (https://dog.ceo/api/breed/puggle/images/random/5)
+
+Info Switzerland - inwoners
+https://restcountries.com/v3.1/name/switzerland?fullText=true - population":8654622
+
+Info valuta
+https://restcountries.com/v3.1/currency/euro
+
+Zoeken op naam
+https://restcountries.com/v3.1/name/bel
+
+URL voor Repos op git
+https://api.github.com/users/Spelmaecker/repos
+
+Commits
+https://api.github.com/repos/Spelmaecker/API/comments
+
+APi geschreven in Python
+https://api.github.com/search/repositories?q=language:python
+
+Rick and Morty
+https://rickandmortyapi.com/api/episode/7,17
+
+Zoeken op personage
+https://rickandmortyapi.com/api/character
+
