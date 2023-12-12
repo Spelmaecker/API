@@ -1,0 +1,7 @@
+Oefening API
+
+Willekeurige foto:
+https://dog.ceo/api/breeds/image/random
+
+5 willekeurige van Puggle
+https://dog.ceo/api/breed/puggle/images/random/5
